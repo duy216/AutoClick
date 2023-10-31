@@ -1,0 +1,16 @@
+[Config]
+base_money = 1
+cat_lo = 11
+cat_lai = 1200
+cat_lai_tien = 250000
+auto_shutdown = 0
+ti_le_gap = 2.04
+dao_cay_so = 0
+danh_theo_lich_su = 1
+chenh_lech_nguy_hiem = 20
+capture = 0
+sanjackpot = 0
+
+pattern_cl=chan,le,le,le,chan,le,le,le,le,chan,chan
+pattern_cl1=le,le,chan,chan,chan,chan,le,chan,chan,le,chan
+pattern_cl0=chan,le,le,le,chan,le,le,le,le,chan,chan
